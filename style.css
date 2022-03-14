@@ -71,3 +71,48 @@ button.signup{
   border-radius: 8px;
   width: 25%;
 }
+
+
+
+/* Random Section */
+
+.random-title{
+  font-size: 36px;
+  font-weight: 900;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.random-container {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+}
+
+.information img{
+  width: 100px;
+  height: 100px;
+}
+
+.information {
+  width: 200px;
+  text-align: center;
+}
+
+/* Quote Section */
+
+.quote-section{
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+}
+
+.quote-container{
+display: flex;
+flex-direction: column;
+width: 350px;
+}
+
+.quote-signature{
+margin-left: auto;
+}
